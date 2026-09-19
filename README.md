@@ -3,7 +3,7 @@
 
 A portfolio-ready, interactive experiment in **human–AI cooperation**: three missions where human context and agent evidence must meet before a good decision can emerge.
 
-**Public demo:** deployment in progress. The verified production URL will be added here after deployment.
+Demo : https://human-agent-colab.vercel.app/
 
 ## The concept
 
