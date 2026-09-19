@@ -102,3 +102,4 @@ Responsive layouts collapse to a single-column workspace on small screens. Contr
 ## Privacy and limitations
 
 No analytics or tracking SDK is included. Session choices and notes remain in local storage until reset or browser data is cleared. Downloaded reports are created locally; external GitHub links and optional Google Fonts requests use their respective services. Do not enter sensitive information into reflections, especially on a shared device. This is a learning prototype, not advice or a validated assessment.
+
